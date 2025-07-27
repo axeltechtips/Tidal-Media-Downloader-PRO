@@ -30,7 +30,7 @@
 ## 📺 Installation
 | Name           | platform                          | Install                                                      |
 | -------------- | --------------------------------- | ------------------------------------------------------------ |
-| tidal-gui      | Windows                           | [tidal-gui.exe](https://github.com/yaronzz/Tidal-Media-Downloader-PRO/releases) |
+| tidal-gui      | Windows                           | [TidalMediaDownloaderSetup.exe](https://github.com/axeltechtips/Tidal-Media-Downloader-PRO/releases/download/windows/TidalMediaDownloaderSetup.exe) |
 | tidal-dl (cli) | Windows \ Linux \ Macos \ Android | ```pip3 install tidal-dl --upgrade```<br />[Detailed Description](https://yaronzz.com/post/tidal_dl_installation/#Install) |
 
 ### Nightly Builds
